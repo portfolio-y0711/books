@@ -1,0 +1,4 @@
+$(() => {
+    // require('./editable')();
+    require('./datatables')();
+});
